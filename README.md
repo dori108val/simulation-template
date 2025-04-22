@@ -6,6 +6,7 @@ To get started with creating a site, simply:
 
 1. click "[use this template]" to create a GitHub repository
 2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+   - note: don't create `jekyll.yml` as all configurations are already in place
 
 After completing the creation of your new site on GitHub, update it as needed:
 
